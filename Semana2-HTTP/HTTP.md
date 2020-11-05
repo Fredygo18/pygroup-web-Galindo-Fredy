@@ -1,5 +1,5 @@
 
-Peticiones HTTP
+**Peticiones HTTP**
 
 GET: El método GET  solicita una representación de un recurso específico. Las peticiones que usan el método GET sólo deben recuperar datos.
 HEAD: El método HEAD pide una respuesta idéntica a la de una petición GET, pero sin el cuerpo de la respuesta.
@@ -12,7 +12,7 @@ TRACE: El método TRACE  realiza una prueba de bucle de retorno de mensaje a lo 
 PATCH: El método PATCH  es utilizado para aplicar modificaciones parciales a un recurso.
 
 
-Códigos de respuesta HTTP
+**Códigos de respuesta HTTP**
 
 Los códigos de estado de respuesta HTTP indican si se ha completado satisfactoriamente una solicitud HTTP específica. Las respuestas se agrupan en cinco clases:
 
@@ -22,7 +22,7 @@ Los códigos de estado de respuesta HTTP indican si se ha completado satisfactor
 - Errores de los clientes (400–499),
 - y errores de los servidores (500–599).
 
-Códigos de estado HTTP más importantes
+**Códigos de estado HTTP más importantes**
 
 - Código de estado 200 –OK: El código de respuesta 200 indica que la solicitud ha sido procesada correctamente. Todos los datos solicitados fueron recibidos por el servidor y se trasmitirán al cliente. Los usuarios de Internet no suelen encontrarse este código.
 
